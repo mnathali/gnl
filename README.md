@@ -6,7 +6,7 @@ The bonus part of get_next_line can differ file descriptors because it has an ar
 
 ## Compiling
 
-Example of compilling that set buffer size:
+Example of compilling that sets buffer size:
 
 ```bash
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
